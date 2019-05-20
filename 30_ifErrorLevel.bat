@@ -1,0 +1,1 @@
+if errorlevel n somecommand

@@ -1,0 +1,18 @@
+ Volume in drive C is OS
+ Volume Serial Number is C202-35F0
+
+ Directory of C:\
+
+07/10/2018  02:38 PM    <DIR>          Intel
+10/15/2018  09:58 AM    <DIR>          Ivanti
+10/11/2018  11:47 AM    <DIR>          PerfLogs
+05/17/2019  09:54 AM    <DIR>          Program Files
+05/17/2019  08:45 AM    <DIR>          Program Files (x86)
+07/10/2018  04:13 PM    <DIR>          Quarantine
+05/10/2019  03:09 PM    <DIR>          tester
+05/10/2019  01:56 PM    <DIR>          Users
+05/10/2019  03:37 PM    <DIR>          WinAMS
+05/17/2019  11:32 AM    <DIR>          Windows
+07/10/2018  02:16 PM    <DIR>          Windows.old
+               0 File(s)              0 bytes
+              11 Dir(s)  270,283,784,192 bytes free
